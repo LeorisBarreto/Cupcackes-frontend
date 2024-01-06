@@ -12,7 +12,6 @@ import { CadastroComponent } from './cadastro/cadastro.component';
   declarations: [
     AppComponent,
     LoginComponent,
-    HomeComponent,
     PaymentComponent,
     CadastroComponent
   ],
